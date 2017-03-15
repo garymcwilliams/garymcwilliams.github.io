@@ -21,9 +21,7 @@ GEM
       jekyll (~> 3.3)
     jekyll-sass-converter (1.5.0)
       sass (~> 3.4)
-    jekyll-theme-architect (0.0.3)
-      jekyll (~> 3.3)
-    jekyll-theme-dinky (0.0.3)
+    jekyll-theme-leap-day (0.0.3)
       jekyll (~> 3.3)
     jekyll-watch (1.5.0)
       listen (~> 3.0, < 3.1)
@@ -51,8 +49,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll (= 3.4.2)
   jekyll-feed (~> 0.6)
-  jekyll-theme-architect
-  jekyll-theme-dinky
+  jekyll-theme-leap-day
   minima (~> 2.0)
   tzinfo-data
 
