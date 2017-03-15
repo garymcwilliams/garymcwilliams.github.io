@@ -20,3 +20,5 @@ Source for the website
     cd gary
     git clone git@ssh.github.com:garymcwilliams/garymcwilliams.github.io.git
 
+## Running on a VM
+    bundle exec jekyll serve --host 0.0.0.0
