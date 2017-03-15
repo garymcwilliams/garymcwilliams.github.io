@@ -1,0 +1,19 @@
+- date: 2016-09-01
+  home:
+    name: Glen
+    shots: 30
+    points: 13
+  away:
+    name: Riverdale
+    shots: 20
+    points: 0
+
+- date: 2016-09-01
+  home:
+    name: St Pauls
+    shots: 30
+    points: 11
+  away:
+    name: Riverdale
+    shots: 20
+    points: 2
