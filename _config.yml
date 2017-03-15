@@ -24,9 +24,9 @@ github_username:  garymcwilliams
 
 # Build settings
 markdown: kramdown
-#theme: minima
+theme: minima
 #theme: jekyll-theme-architect
-theme: jekyll-theme-dinky
+#theme: jekyll-theme-dinky
 gems:
   - jekyll-feed
 exclude:
