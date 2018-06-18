@@ -24,8 +24,8 @@ github_username:  garymcwilliams
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-leap-day
-#theme: minimal-mistakes-jekyll
+#theme: jekyll-theme-leap-day
+theme: merlot
 gems:
   - jekyll-feed
 exclude:
