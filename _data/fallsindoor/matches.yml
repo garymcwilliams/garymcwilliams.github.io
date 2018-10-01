@@ -1,19 +1,19 @@
-- date: 2016-09-01
+- date: 2018-09-01
   home:
-    name: Glen
+    name: Falls A
     shots: 25
     points: 11
   away:
     name: Riverdale
     shots: 15
-    points: 4
+    points: 0
 
-- date: 2016-09-01
+- date: 2018-09-30
   home:
-    name: St Pauls
+    name: St Annes
     shots: 30
-    points: 11
+    points: 9
   away:
-    name: Riverdale
+    name: Falls A
     shots: 20
     points: 2
