@@ -23,10 +23,10 @@ These are my thoughts. (Notes for now, will add details over time)
 Compared to Keepass, Bitwarden falls short in:
 
 * shortcut keys:
-** quick launch CTRL-ALT-K to launch, CTRL-E to get to edit.
-** search in password fields for pattern.
-** form fill: In Keepass, matching defaults are pre-inserted into user/pass login fields, in Bitwarden I still need to mouse all the way up to top-right of browser and click the Bitwarden icon and then click the matching entry.
-** Auto-type, CTRL-V in Keepass will auto-type the user password into the login page.
+  * quick launch CTRL-ALT-K to launch, CTRL-E to get to edit.
+  * search in password fields for pattern.
+  * form fill: In Keepass, matching defaults are pre-inserted into user/pass login fields, in Bitwarden I still need to mouse all the way up to top-right of browser and click the Bitwarden icon and then click the matching entry.
+  * Auto-type, CTRL-V in Keepass will auto-type the user password into the login page.
 
 # Keepass
 
