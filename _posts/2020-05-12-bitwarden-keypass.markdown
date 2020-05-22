@@ -32,4 +32,8 @@ Compared to Keepass, Bitwarden falls short in:
 
 ## Pro
 
+  * quick launch CTRL-ALT-K to launch, CTRL-E to get to edit.
+  * plugins, e.g. rdp connections can be configured to launch, logged in with CTRL-U.
+    * configured for `rdp://` url
+
 ## Con
