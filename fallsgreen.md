@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Falls Indoor
-permalink: /fallsindoor/
+title: Falls Green Booking
+permalink: /fallsgreen
 ---
 
 ## Green Booking
