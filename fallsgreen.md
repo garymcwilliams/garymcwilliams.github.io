@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Falls Green Booking
-permalink: /fallsgreen
+permalink: /fallsgreen/
 ---
 
 ## Green Booking
