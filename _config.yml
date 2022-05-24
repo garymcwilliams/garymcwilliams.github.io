@@ -26,10 +26,12 @@ github_username:  garymcwilliams
 markdown: kramdown
 #theme: jekyll-theme-leap-day
 #theme: jekyll-theme-merlot
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
+remote_theme: "jeffreytse/jekyll-theme-yat"
 
-gems:
+plugins:
   - jekyll-feed
+
 exclude:
   - Gemfile
   - Gemfile.lock
