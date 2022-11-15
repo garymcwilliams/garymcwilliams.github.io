@@ -26,8 +26,23 @@ github_username:  garymcwilliams
 markdown: kramdown
 remote_theme: pages-themes/architect@v0.2.0
 
-gems:
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  -
+    scope:
+      type: "pages"
+    values:
+      layout: "default"
+
+plugins:
+  - jekyll-remote-theme
   - jekyll-feed
+
 exclude:
   - Gemfile
   - Gemfile.lock
